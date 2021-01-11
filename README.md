@@ -1,3 +1,5 @@
 # javaPractice
 This is a repository to record my Java code practice and learning journey.
-Any of the smaller programs that I create to solidify or use to learn Java concepts will be uploaded as zip files here.
+I upload any of the small programs and projects that I have used to learn new concepts or just reviewing concepts to this repository.
+The purpose is to learn and review Java concepts.
+My actual prroject files will be in different repositories that are dedicated to the specific project.
